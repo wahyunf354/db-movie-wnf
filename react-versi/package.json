@@ -35,6 +35,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.6",
+    "dotenv": "^8.2.0",
     "postcss-cli": "^7.1.1",
     "tailwindcss": "^1.4.4"
   }
